@@ -9,3 +9,4 @@ ax.pie_label(pie, labels, distance=0.7)
 ax.pie_label(pie, "{frac:.1%}", distance=0.5)
 
 plt.show()
+
