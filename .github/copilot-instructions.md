@@ -11,6 +11,7 @@ This repository contains a small Python data analysis notebook and a simple plot
 
 ## Editing guidance
 - Preserve existing notebook structure and markdown commentary in `Joker_Analysis.ipynb`.
+- Use headings of various levels that separate and clearly demarcate the various sections.
 - Prefer adding new notebook cells for additional analysis or visualization.
 - Keep `test.py` simple and consistent with its existing matplotlib pie chart example.
 - Do not introduce unnecessary dependencies.
